@@ -1,0 +1,27 @@
+<?xml version='1.0' ?>
+<Manifest>
+    <Id>m13jwb2832</Id>
+    <Secret>459DC3FE9BB192F28BE8AACED69317BE</Secret>
+  <AppVersion>1.0.0</AppVersion>
+  <ManifestVersion>1.2</ManifestVersion>
+  <AppType>C++</AppType>
+    <Privileges>
+        <Privilege>
+            <Name>IMAGE</Name>         
+            <GroupId>devicegr48</GroupId> 
+            <Name>LOCAL_CONTENT</Name>
+        </Privilege>
+        <Privilege>
+            <Name>IMAGE</Name>
+        </Privilege>
+        <Privilege>
+            <Name>HTTP</Name>
+        </Privilege>
+        <Privilege>
+            <Name>SNS_SERVICE</Name>
+        </Privilege>
+    </Privileges>
+    <DeviceProfile>
+        <APIVersion>2.0</APIVersion>
+    </DeviceProfile>
+</Manifest>

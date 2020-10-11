@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>SnapshotShare</Entry>
+    <Name>
+        <English>SnapshotShare</English>
+        <eng-GB>SnapshotShare</eng-GB>
+    </Name>
+    <Vendor/>
+    <Description/>
+    <Icons>
+        <MainMenu>SnapshotShare_WVGA.jpg<Type1>SnapshotShare_WVGA.jpg</Type1>
+            <Type2/>
+            <Type3/>
+            <Type4/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_WVGA.jpg<Type1>Splash_WVGA.jpg</Type1>
+            <Type2/>
+            <Type3/>
+            <Type4/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>true</Enabled>
+        <BaseResolution>NormalSize</BaseResolution>
+    </AutoScaling>
+    <Multitasking>true</Multitasking>
+</Application>
